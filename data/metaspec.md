@@ -1,4 +1,4 @@
-MetaSpec - Specifying Project/App/Package Metadata
+MetaSpec - Specifying Project / Package Metadata
 ==================================================
 
 MetaSpec aims to define a reusable extensible and combinable for project
